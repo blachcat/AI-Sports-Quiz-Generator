@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "sport": "Cricket",
+    "text": "A cricket match is played between two teams of eleven players."
+  },
+  {
+    "id": "2",
+    "sport": "Cricket",
+    "text": "A century in cricket means scoring 100 runs in a single innings."
+  },
+  {
+    "id": "3",
+    "sport": "Football",
+    "text": "A football match consists of two halves of 45 minutes each."
+  },
+  {
+    "id": "4",
+    "sport": "Football",
+    "text": "The FIFA World Cup is held every four years."
+  },
+  {
+    "id": "5",
+    "sport": "Basketball",
+    "text": "A basketball team has five players on the court."
+  },
+  {
+    "id": "6",
+    "sport": "Basketball",
+    "text": "A standard basketball hoop is 10 feet high."
+  }
+]

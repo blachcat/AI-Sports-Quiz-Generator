@@ -1,0 +1,28 @@
+# Python Virtual Environment
+.venv/
+
+# Backend
+backend/__pycache__/
+backend/.env
+backend/chroma_db/
+
+# Python Cache
+*.pyc
+*.pyo
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Vite
+frontend/.vite/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
